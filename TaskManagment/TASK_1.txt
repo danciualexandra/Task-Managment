@@ -1,0 +1,496 @@
+StartTime:2011-11-28 02:27:59      EndTime:2011-11-28 10:18:11     LabelActivity:Sleeping
+
+StartTime:2011-11-28 10:21:24      EndTime:2011-11-28 10:23:36     LabelActivity:Toileting	
+
+StartTime:2011-11-28 10:25:44      EndTime:2011-11-28 10:33:00     LabelActivity:Showering	
+
+StartTime:2011-11-28 10:34:23      EndTime:2011-11-28 10:43:00     LabelActivity:Breakfast	
+
+StartTime:2011-11-28 10:49:48      EndTime:2011-11-28 10:51:13     LabelActivity:Grooming	
+
+StartTime:2011-11-28 10:51:41      EndTime:2011-11-28 13:05:07     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-28 13:06:04      EndTime:2011-11-28 13:06:31     LabelActivity:Toileting	
+
+StartTime:2011-11-28 13:09:31      EndTime:2011-11-28 13:29:09     LabelActivity:Leaving	
+
+StartTime:2011-11-28 13:38:40      EndTime:2011-11-28 14:21:40     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-28 14:22:38      EndTime:2011-11-28 14:27:07     LabelActivity:Toileting	
+
+StartTime:2011-11-28 14:27:11      EndTime:2011-11-28 15:04:00     LabelActivity:Lunch
+
+StartTime:2011-11-28 15:04:59      EndTime:2011-11-28 15:06:29     LabelActivity:Grooming	
+
+StartTime:2011-11-28 15:07:01      EndTime:2011-11-28 20:20:00     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-28 20:20:55      EndTime:2011-11-28 20:20:59     LabelActivity:Snack	
+
+StartTime:2011-11-28 20:21:15      EndTime:2011-11-29 02:06:00     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-29 02:16:00      EndTime:2011-11-29 11:31:00     LabelActivity:Sleeping
+
+StartTime:2011-11-29 11:31:55      EndTime:2011-11-29 11:36:55     LabelActivity:Toileting	
+
+StartTime:2011-11-29 11:37:38      EndTime:2011-11-29 11:48:54     LabelActivity:Grooming	
+
+StartTime:2011-11-29 11:49:57      EndTime:2011-11-29 11:51:13     LabelActivity:Showering	
+
+StartTime:2011-11-29 12:08:28      EndTime:2011-11-29 12:18:00     LabelActivity:Breakfast	
+
+StartTime:2011-11-29 12:19:01      EndTime:2011-11-29 12:22:00     LabelActivity:Grooming	
+
+StartTime:2011-11-29 12:22:38      EndTime:2011-11-29 12:24:59     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-29 13:25:29      EndTime:2011-11-29 13:25:32     LabelActivity:Snack	
+
+StartTime:2011-11-29 13:25:38      EndTime:2011-11-29 15:12:26     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-29 15:13:28      EndTime:2011-11-29 15:13:57     LabelActivity:Toileting	
+
+StartTime:2011-11-29 15:14:33      EndTime:2011-11-29 15:45:54     LabelActivity:Lunch
+
+StartTime:2011-11-29 15:49:51      EndTime:2011-11-29 15:50:54     LabelActivity:Grooming	
+
+StartTime:2011-11-29 15:52:04      EndTime:2011-11-29 16:17:58     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-29 16:18:00      EndTime:2011-11-29 16:31:27     LabelActivity:Toileting	
+
+StartTime:2011-11-29 16:34:17      EndTime:2011-11-29 17:08:07     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-29 17:08:58      EndTime:2011-11-29 17:09:29     LabelActivity:Toileting	
+
+StartTime:2011-11-29 17:43:00      EndTime:2011-11-29 18:57:22     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-29 19:02:15      EndTime:2011-11-29 20:23:38     LabelActivity:Leaving	
+
+StartTime:2011-11-29 20:28:00      EndTime:2011-11-30 01:19:47     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-30 01:22:33      EndTime:2011-11-30 10:07:31     LabelActivity:Sleeping
+
+StartTime:2011-11-30 10:11:07      EndTime:2011-11-30 10:13:59     LabelActivity:Toileting	
+
+StartTime:2011-11-30 10:14:45      EndTime:2011-11-30 10:18:33     LabelActivity:Showering	
+
+StartTime:2011-11-30 10:22:59      EndTime:2011-11-30 10:35:00     LabelActivity:Breakfast	
+
+StartTime:2011-11-30 10:39:30      EndTime:2011-11-30 10:41:13     LabelActivity:Grooming	
+
+StartTime:2011-11-30 10:41:38      EndTime:2011-11-30 13:04:59     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-30 13:05:27      EndTime:2011-11-30 13:05:31     LabelActivity:Snack	
+
+StartTime:2011-11-30 13:05:38      EndTime:2011-11-30 14:09:34     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-30 14:11:16      EndTime:2011-11-30 14:11:48     LabelActivity:Toileting	
+
+StartTime:2011-11-30 14:13:45      EndTime:2011-11-30 14:34:09     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-30 14:39:42      EndTime:2011-11-30 15:00:24     LabelActivity:Lunch
+
+StartTime:2011-11-30 15:11:48      EndTime:2011-11-30 16:39:11     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-30 16:40:01      EndTime:2011-11-30 16:40:24     LabelActivity:Toileting	
+
+StartTime:2011-11-30 16:41:05      EndTime:2011-11-30 16:41:09     LabelActivity:Snack	
+
+StartTime:2011-11-30 16:41:15      EndTime:2011-11-30 18:00:38     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-30 18:01:44      EndTime:2011-11-30 18:01:47     LabelActivity:Toileting	
+
+StartTime:2011-11-30 18:01:54      EndTime:2011-11-30 18:43:20     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-30 18:57:08      EndTime:2011-11-30 18:57:34     LabelActivity:Toileting	
+
+StartTime:2011-11-30 18:57:39      EndTime:2011-11-30 19:37:10     LabelActivity:Spare_Time/TV
+
+StartTime:2011-11-30 19:37:36      EndTime:2011-11-30 19:38:01     LabelActivity:Toileting	
+
+StartTime:2011-11-30 19:46:44      EndTime:2011-11-30 20:05:12     LabelActivity:Leaving	
+
+StartTime:2011-11-30 20:13:39      EndTime:2011-11-30 20:13:48     LabelActivity:Grooming	
+
+StartTime:2011-11-30 20:14:03      EndTime:2011-12-01 01:34:27     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-01 01:37:52      EndTime:2011-12-01 10:50:45     LabelActivity:Sleeping
+
+StartTime:2011-12-01 10:55:03      EndTime:2011-12-01 10:55:32     LabelActivity:Grooming	
+
+StartTime:2011-12-01 10:58:37      EndTime:2011-12-01 11:12:22     LabelActivity:Showering	
+
+StartTime:2011-12-01 11:17:05      EndTime:2011-12-01 11:29:49     LabelActivity:Breakfast	
+
+StartTime:2011-12-01 11:30:06      EndTime:2011-12-01 14:29:02     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-01 14:29:37      EndTime:2011-12-01 14:55:02     LabelActivity:Lunch
+
+StartTime:2011-12-01 15:09:00      EndTime:2011-12-01 16:26:17     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-01 16:26:35      EndTime:2011-12-01 16:27:04     LabelActivity:Toileting	
+
+StartTime:2011-12-01 16:27:03      EndTime:2011-12-01 16:46:40     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-01 17:17:23      EndTime:2011-12-01 17:27:13     LabelActivity:Grooming	
+
+StartTime:2011-12-01 17:29:29      EndTime:2011-12-01 18:49:51     LabelActivity:Leaving	
+
+StartTime:2011-12-01 18:55:03      EndTime:2011-12-01 19:10:34     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-01 19:28:51      EndTime:2011-12-01 19:29:59     LabelActivity:Toileting	
+
+StartTime:2011-12-01 19:30:01      EndTime:2011-12-01 23:52:52     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-01 23:53:00      EndTime:2011-12-01 23:53:28     LabelActivity:Grooming	
+
+StartTime:2011-12-01 23:54:32      EndTime:2011-12-02 01:18:32     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-02 01:18:44      EndTime:2011-12-02 01:18:57     LabelActivity:Grooming	
+
+StartTime:2011-12-02 01:19:09      EndTime:2011-12-02 02:08:17     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-02 02:09:33      EndTime:2011-12-02 02:13:56     LabelActivity:Grooming	
+
+StartTime:2011-12-02 02:15:55      EndTime:2011-12-02 12:15:19     LabelActivity:Sleeping
+
+StartTime:2011-12-02 12:16:00      EndTime:2011-12-02 12:20:40     LabelActivity:Toileting	
+
+StartTime:2011-12-02 12:20:41      EndTime:2011-12-02 13:20:59     LabelActivity:Grooming	
+
+StartTime:2011-12-02 12:21:19      EndTime:2011-12-02 12:25:40     LabelActivity:Showering	
+
+StartTime:2011-12-02 12:27:47      EndTime:2011-12-02 13:35:49     LabelActivity:Breakfast	
+
+StartTime:2011-12-02 12:37:47      EndTime:2011-12-02 14:46:29     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-02 14:47:00      EndTime:2011-12-02 15:20:00     LabelActivity:Lunch
+
+StartTime:2011-12-02 15:24:05      EndTime:2011-12-02 15:55:12     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-02 15:56:02      EndTime:2011-12-02 15:57:55     LabelActivity:Grooming	
+
+StartTime:2011-12-02 15:58:00      EndTime:2011-12-02 16:36:05     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-02 16:37:27      EndTime:2011-12-02 16:47:27     LabelActivity:Toileting	
+
+StartTime:2011-12-02 16:47:39      EndTime:2011-12-02 19:39:08     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-02 19:40:44      EndTime:2011-12-02 19:40:50     LabelActivity:Snack	
+
+StartTime:2011-12-02 19:41:14      EndTime:2011-12-02 21:26:09     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-02 21:27:09      EndTime:2011-12-02 21:44:37     LabelActivity:Toileting	
+
+StartTime:2011-12-02 21:46:31      EndTime:2011-12-03 01:41:08     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-03 01:47:02      EndTime:2011-12-03 11:56:20     LabelActivity:Sleeping
+
+StartTime:2011-12-03 11:57:15      EndTime:2011-12-03 11:59:15     LabelActivity:Toileting	
+
+StartTime:2011-12-03 11:59:33      EndTime:2011-12-03 12:01:59     LabelActivity:Grooming	
+
+StartTime:2011-12-03 12:03:36      EndTime:2011-12-03 12:07:26     LabelActivity:Showering	
+
+StartTime:2011-12-03 12:10:35      EndTime:2011-12-03 12:19:30     LabelActivity:Breakfast	
+
+StartTime:2011-12-03 12:21:30      EndTime:2011-12-03 13:28:36     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-03 13:29:00      EndTime:2011-12-03 13:29:59     LabelActivity:Grooming	
+
+StartTime:2011-12-03 13:29:48      EndTime:2011-12-03 14:01:20     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-03 14:11:10      EndTime:2011-12-03 14:14:43     LabelActivity:Grooming	
+
+StartTime:2011-12-03 14:18:11      EndTime:2011-12-03 17:48:37     LabelActivity:Leaving	
+
+StartTime:2011-12-03 17:50:14      EndTime:2011-12-03 23:53:24     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-03 23:54:00      EndTime:2011-12-03 23:54:51     LabelActivity:Toileting	
+
+StartTime:2011-12-03 23:55:18      EndTime:2011-12-04 03:16:13     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-04 03:19:17      EndTime:2011-12-04 12:37:49     LabelActivity:Sleeping
+
+StartTime:2011-12-04 12:39:45      EndTime:2011-12-04 12:45:44     LabelActivity:Toileting	
+
+StartTime:2011-12-04 12:46:11      EndTime:2011-12-04 12:47:28     LabelActivity:Grooming	
+
+StartTime:2011-12-04 12:50:56      EndTime:2011-12-04 12:54:55     LabelActivity:Showering	
+
+StartTime:2011-12-04 12:56:08      EndTime:2011-12-04 12:59:48     LabelActivity:Breakfast	
+
+StartTime:2011-12-04 13:00:53      EndTime:2011-12-04 13:58:10     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-04 14:00:12      EndTime:2011-12-04 14:03:42     LabelActivity:Toileting	
+
+StartTime:2011-12-04 14:11:50      EndTime:2011-12-04 16:31:01     LabelActivity:Leaving	
+
+StartTime:2011-12-04 16:34:00      EndTime:2011-12-04 17:25:39     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-04 17:27:03      EndTime:2011-12-04 17:27:08     LabelActivity:Snack	
+
+StartTime:2011-12-04 17:27:16      EndTime:2011-12-04 17:43:56     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-04 17:45:00      EndTime:2011-12-04 17:45:59     LabelActivity:Grooming	
+
+StartTime:2011-12-04 18:08:28      EndTime:2011-12-04 18:57:52     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-04 18:58:06      EndTime:2011-12-04 18:59:33     LabelActivity:Toileting	
+
+StartTime:2011-12-04 18:59:53      EndTime:2011-12-04 18:59:59     LabelActivity:Snack	
+
+StartTime:2011-12-04 19:00:04      EndTime:2011-12-04 22:20:59     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-04 22:21:10      EndTime:2011-12-04 22:22:10     LabelActivity:Toileting	
+
+StartTime:2011-12-04 22:22:19      EndTime:2011-12-05 01:28:09     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-05 01:31:34      EndTime:2011-12-05 01:31:39     LabelActivity:Grooming	
+
+StartTime:2011-12-05 01:35:10      EndTime:2011-12-05 11:48:55     LabelActivity:Sleeping
+
+StartTime:2011-12-05 11:53:01      EndTime:2011-12-05 11:53:31     LabelActivity:Toileting	
+
+StartTime:2011-12-05 11:57:47      EndTime:2011-12-05 11:57:55     LabelActivity:Grooming	
+
+StartTime:2011-12-05 12:01:23      EndTime:2011-12-05 12:08:56     LabelActivity:Showering	
+
+StartTime:2011-12-05 12:14:49      EndTime:2011-12-05 12:24:37     LabelActivity:Breakfast	
+
+StartTime:2011-12-05 13:46:29      EndTime:2011-12-05 14:26:46     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-05 14:28:36      EndTime:2011-12-05 14:28:42     LabelActivity:Grooming	
+
+StartTime:2011-12-05 14:38:07      EndTime:2011-12-05 14:55:06     LabelActivity:Leaving	
+
+StartTime:2011-12-05 14:57:51      EndTime:2011-12-05 15:40:59     LabelActivity:Lunch
+
+StartTime:2011-12-05 15:42:25      EndTime:2011-12-05 15:43:59     LabelActivity:Grooming	
+
+StartTime:2011-12-05 15:44:00      EndTime:2011-12-05 15:44:16     LabelActivity:Toileting	
+
+StartTime:2011-12-05 15:44:56      EndTime:2011-12-05 16:02:10     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-05 16:06:32      EndTime:2011-12-05 16:36:32     LabelActivity:Toileting	
+
+StartTime:2011-12-05 16:37:15      EndTime:2011-12-05 17:14:32     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-05 17:17:07      EndTime:2011-12-05 18:57:16     LabelActivity:Leaving	
+
+StartTime:2011-12-05 19:01:42      EndTime:2011-12-05 19:24:02     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-05 19:24:11      EndTime:2011-12-05 19:24:16     LabelActivity:Snack	
+
+StartTime:2011-12-05 19:24:22      EndTime:2011-12-05 20:07:19     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-05 20:07:32      EndTime:2011-12-05 20:07:47     LabelActivity:Grooming	
+
+StartTime:2011-12-05 20:08:12      EndTime:2011-12-05 20:08:52     LabelActivity:Toileting	
+
+StartTime:2011-12-05 20:09:00      EndTime:2011-12-05 21:06:25     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-05 21:06:35      EndTime:2011-12-05 21:06:43     LabelActivity:Toileting	
+
+StartTime:2011-12-05 21:06:44      EndTime:2011-12-05 21:07:00     LabelActivity:Grooming	
+
+StartTime:2011-12-05 21:07:14      EndTime:2011-12-06 00:38:24     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-06 00:39:01      EndTime:2011-12-06 00:40:41     LabelActivity:Toileting	
+
+StartTime:2011-12-06 00:42:37      EndTime:2011-12-06 10:07:20     LabelActivity:Sleeping
+
+StartTime:2011-12-06 11:08:00      EndTime:2011-12-06 11:08:53     LabelActivity:Toileting	
+
+StartTime:2011-12-06 11:09:49      EndTime:2011-12-06 11:11:45     LabelActivity:Grooming	
+
+StartTime:2011-12-06 11:12:19      EndTime:2011-12-06 11:25:57     LabelActivity:Showering	
+
+StartTime:2011-12-06 11:30:19      EndTime:2011-12-06 11:35:26     LabelActivity:Breakfast	
+
+StartTime:2011-12-06 11:39:34      EndTime:2011-12-06 14:37:50     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-06 14:40:53      EndTime:2011-12-06 15:15:58     LabelActivity:Lunch
+
+StartTime:2011-12-06 15:18:35      EndTime:2011-12-06 15:20:32     LabelActivity:Grooming	
+
+StartTime:2011-12-06 15:21:46      EndTime:2011-12-06 17:11:04     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-06 17:13:04      EndTime:2011-12-06 17:19:04     LabelActivity:Toileting	
+
+StartTime:2011-12-06 17:19:34      EndTime:2011-12-06 18:06:26     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-06 18:07:03      EndTime:2011-12-06 18:07:15     LabelActivity:Grooming	
+
+StartTime:2011-12-06 18:07:36      EndTime:2011-12-06 19:22:33     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-06 19:22:50      EndTime:2011-12-06 19:22:55     LabelActivity:Snack	
+
+StartTime:2011-12-06 19:25:56      EndTime:2011-12-06 19:26:20     LabelActivity:Grooming	
+
+StartTime:2011-12-06 19:40:28      EndTime:2011-12-07 00:07:38     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-07 00:07:47      EndTime:2011-12-07 00:07:57     LabelActivity:Grooming	
+
+StartTime:2011-12-07 00:08:10      EndTime:2011-12-07 00:54:50     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-07 00:57:29      EndTime:2011-12-07 00:57:53     LabelActivity:Toileting	
+
+StartTime:2011-12-07 00:59:56      EndTime:2011-12-07 10:45:40     LabelActivity:Sleeping
+
+StartTime:2011-12-07 10:46:15      EndTime:2011-12-07 10:49:26     LabelActivity:Toileting	
+
+StartTime:2011-12-07 10:50:38      EndTime:2011-12-07 11:04:19     LabelActivity:Grooming	
+
+StartTime:2011-12-07 11:05:51      EndTime:2011-12-07 11:11:32     LabelActivity:Showering	
+
+StartTime:2011-12-07 11:12:17      EndTime:2011-12-07 11:20:04     LabelActivity:Breakfast	
+
+StartTime:2011-12-07 11:22:58      EndTime:2011-12-07 13:56:10     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-07 14:03:34      EndTime:2011-12-07 14:39:30     LabelActivity:Lunch
+
+StartTime:2011-12-07 14:41:59      EndTime:2011-12-07 15:28:03     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-07 15:31:23      EndTime:2011-12-07 15:31:41     LabelActivity:Grooming	
+
+StartTime:2011-12-07 15:31:42      EndTime:2011-12-07 15:31:46     LabelActivity:Toileting	
+
+StartTime:2011-12-07 15:32:15      EndTime:2011-12-07 16:11:28     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-07 16:15:26      EndTime:2011-12-07 16:21:09     LabelActivity:Grooming	
+
+StartTime:2011-12-07 16:25:45      EndTime:2011-12-07 18:12:36     LabelActivity:Leaving	
+
+StartTime:2011-12-07 18:14:56      EndTime:2011-12-07 18:14:59     LabelActivity:Grooming	
+
+StartTime:2011-12-07 18:15:00      EndTime:2011-12-07 18:15:03     LabelActivity:Toileting	
+
+StartTime:2011-12-07 18:15:51      EndTime:2011-12-07 19:21:46     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-07 19:23:55      EndTime:2011-12-07 19:28:46     LabelActivity:Snack	
+
+StartTime:2011-12-07 20:37:50      EndTime:2011-12-07 20:38:18     LabelActivity:Snack	
+
+StartTime:2011-12-07 20:39:16      EndTime:2011-12-07 20:39:44     LabelActivity:Toileting	
+
+StartTime:2011-12-07 20:40:29      EndTime:2011-12-07 20:42:35     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-07 20:52:23      EndTime:2011-12-07 23:19:30     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-07 23:19:40      EndTime:2011-12-07 23:19:56     LabelActivity:Toileting	
+
+StartTime:2011-12-07 23:20:16      EndTime:2011-12-08 01:32:32     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-08 01:39:41      EndTime:2011-12-08 11:14:29     LabelActivity:Sleeping
+
+StartTime:2011-12-08 11:17:37      EndTime:2011-12-08 11:17:48     LabelActivity:Grooming	
+
+StartTime:2011-12-08 11:17:49      EndTime:2011-12-08 11:17:58     LabelActivity:Toileting	
+
+StartTime:2011-12-08 11:18:02      EndTime:2011-12-08 11:18:13     LabelActivity:Grooming	
+
+StartTime:2011-12-08 11:19:22      EndTime:2011-12-08 11:24:17     LabelActivity:Showering	
+
+StartTime:2011-12-08 11:25:12      EndTime:2011-12-08 11:34:01     LabelActivity:Breakfast	
+
+StartTime:2011-12-08 11:36:09      EndTime:2011-12-08 13:41:19     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-08 14:04:49      EndTime:2011-12-08 14:05:01     LabelActivity:Grooming	
+
+StartTime:2011-12-08 14:10:03      EndTime:2011-12-08 16:21:41     LabelActivity:Leaving	
+
+StartTime:2011-12-08 16:24:27      EndTime:2011-12-08 22:13:23     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-08 22:13:35      EndTime:2011-12-08 22:13:49     LabelActivity:Grooming	
+
+StartTime:2011-12-08 22:14:14      EndTime:2011-12-08 23:12:37     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-08 23:14:09      EndTime:2011-12-08 23:14:27     LabelActivity:Grooming	
+
+StartTime:2011-12-08 23:14:35      EndTime:2011-12-09 01:03:07     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-09 01:04:24      EndTime:2011-12-09 01:05:43     LabelActivity:Grooming	
+
+StartTime:2011-12-09 01:16:42      EndTime:2011-12-09 10:49:07     LabelActivity:Sleeping
+
+StartTime:2011-12-09 10:51:56      EndTime:2011-12-09 10:52:27     LabelActivity:Toileting	
+
+StartTime:2011-12-09 10:52:30      EndTime:2011-12-09 10:52:50     LabelActivity:Grooming	
+
+StartTime:2011-12-09 10:54:58      EndTime:2011-12-09 10:58:21     LabelActivity:Showering	
+
+StartTime:2011-12-09 11:00:13      EndTime:2011-12-09 11:08:15     LabelActivity:Breakfast	
+
+StartTime:2011-12-09 11:09:35      EndTime:2011-12-09 12:32:57     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-09 12:33:21      EndTime:2011-12-09 12:42:15     LabelActivity:Grooming	
+
+StartTime:2011-12-09 12:44:16      EndTime:2011-12-09 16:33:56     LabelActivity:Leaving	
+
+StartTime:2011-12-09 16:45:53      EndTime:2011-12-09 16:59:52     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-09 17:01:37      EndTime:2011-12-09 17:04:57     LabelActivity:Toileting	
+
+StartTime:2011-12-09 17:06:38      EndTime:2011-12-09 17:59:19     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-09 17:59:25      EndTime:2011-12-09 17:59:27     LabelActivity:Grooming	
+
+StartTime:2011-12-09 18:02:18      EndTime:2011-12-09 18:19:03     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-09 18:32:02      EndTime:2011-12-09 18:48:36     LabelActivity:Leaving	
+
+StartTime:2011-12-09 19:19:54      EndTime:2011-12-09 21:04:31     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-09 21:04:37      EndTime:2011-12-09 21:04:50     LabelActivity:Grooming	
+
+StartTime:2011-12-09 21:04:59      EndTime:2011-12-10 00:16:21     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-10 00:16:31      EndTime:2011-12-10 00:16:49     LabelActivity:Grooming	
+
+StartTime:2011-12-10 00:17:05      EndTime:2011-12-10 00:46:13     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-10 00:50:47      EndTime:2011-12-10 09:26:17     LabelActivity:Sleeping
+
+StartTime:2011-12-10 09:28:00      EndTime:2011-12-10 09:35:48     LabelActivity:Toileting	
+
+StartTime:2011-12-10 09:37:16      EndTime:2011-12-10 09:46:27     LabelActivity:Grooming	
+
+StartTime:2011-12-10 09:47:44      EndTime:2011-12-10 09:52:42     LabelActivity:Showering	
+
+StartTime:2011-12-10 09:55:18      EndTime:2011-12-10 10:02:10     LabelActivity:Breakfast	
+
+StartTime:2011-12-10 10:03:20      EndTime:2011-12-10 12:34:09     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-10 12:52:54      EndTime:2011-12-10 12:53:39     LabelActivity:Grooming	
+
+StartTime:2011-12-10 13:04:03      EndTime:2011-12-10 17:07:03     LabelActivity:Leaving	
+
+StartTime:2011-12-10 17:11:23      EndTime:2011-12-10 20:16:51     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-10 20:21:54      EndTime:2011-12-10 20:23:16     LabelActivity:Grooming	
+
+StartTime:2011-12-10 20:25:40      EndTime:2011-12-11 00:56:05     LabelActivity:Leaving	
+
+StartTime:2011-12-11 01:01:41      EndTime:2011-12-11 02:26:29     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-11 02:27:23      EndTime:2011-12-11 02:28:44     LabelActivity:Grooming	
+
+StartTime:2011-12-11 02:31:15      EndTime:2011-12-11 11:57:34     LabelActivity:Sleeping
+
+StartTime:2011-12-11 11:58:17      EndTime:2011-12-11 12:01:27     LabelActivity:Toileting	
+
+StartTime:2011-12-11 12:02:25      EndTime:2011-12-11 12:02:39     LabelActivity:Grooming	
+
+StartTime:2011-12-11 12:02:56      EndTime:2011-12-11 12:18:42     LabelActivity:Showering	
+
+StartTime:2011-12-11 12:21:57      EndTime:2011-12-11 12:30:09     LabelActivity:Breakfast	
+
+StartTime:2011-12-11 12:32:49      EndTime:2011-12-11 14:26:18     LabelActivity:Spare_Time/TV
+
+StartTime:2011-12-11 14:34:12      EndTime:2011-12-11 15:26:17     LabelActivity:Lunch
+
+StartTime:2011-12-11 15:28:59      EndTime:2011-12-11 15:30:14     LabelActivity:Toileting	
+
+StartTime:2011-12-11 15:41:34      EndTime:2011-12-11 15:43:30     LabelActivity:Grooming	
+
+StartTime:2011-12-11 15:43:51      EndTime:2011-12-11 21:41:48     LabelActivity:Spare_Time/TV
+

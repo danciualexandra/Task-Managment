@@ -1,0 +1,9 @@
+Leaving	  1658 min
+Breakfast	  171 min
+Sleeping  7856 min
+Snack	  4 min
+Grooming	  139 min
+Showering	  85 min
+Spare_Time/TV  8510 min
+Toileting	  124 min
+Lunch  310 min
